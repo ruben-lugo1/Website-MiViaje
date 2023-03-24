@@ -3,7 +3,7 @@
 
 
 <div class="header" aling="center"> 
-    <img src="cap-1.jpg" width="500"/>
+    <img src="cap-1.jpg" width="100"/>
 
 <h1 aling="center">WEBSITE MIVIAJE</h1>
 <h3 aling="center">Lenguajes utilizados: HTML, CSS y JavaScript</h3>
