@@ -1,3 +1,4 @@
+![Texto alternativo para la imagen](cap-1.jpg)
 
 <div class="header" aling="center"> 
     <img src="cap-1" width="500"/>
