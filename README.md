@@ -1,6 +1,6 @@
 
 <div class="header" aling="center"> 
-    <img src="/img/cap-1" width="500"/>
+    <img src="cap-1" width="500"/>
 
 <h1 aling="center">WEBSITE MIVIAJE</h1>
 <h3 aling="center">Lenguajes utilizados: HTML, CSS y JavaScript</h3>
