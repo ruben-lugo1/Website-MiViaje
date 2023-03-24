@@ -1,6 +1,6 @@
 
 <div class="header" aling="center"> 
-    <img src="https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" width="500"/>
+    <img src="Captura de Pantalla 2023-03-23 a la(s) 22.10.40.png" width="500"/>
 
 <h1 aling="center">WEBSITE MIVIAJE</h1>
 <h3 aling="center">Lenguajes utilizados: HTML, CSS y JavaScript</h3>
