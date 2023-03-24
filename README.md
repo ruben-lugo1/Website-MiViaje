@@ -1,7 +1,7 @@
 ![Texto alternativo para la imagen](cap-1.jpg)
 
 <div class="header" aling="center"> 
-    <img src="cap-1" width="500"/>
+    <img src="cap-1.jpg" width="500"/>
 
 <h1 aling="center">WEBSITE MIVIAJE</h1>
 <h3 aling="center">Lenguajes utilizados: HTML, CSS y JavaScript</h3>
